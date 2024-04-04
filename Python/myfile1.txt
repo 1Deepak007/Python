@@ -1,0 +1,3 @@
+this is was automatically created as i opened it in write mode.This is added using append mode
+This is added using append mode.
+Can append text using 'with'
